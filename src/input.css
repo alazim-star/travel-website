@@ -105,3 +105,9 @@ background: rgb(255, 255, 255);
     gap: 10px;
 
 }
+.fa-brands{
+    color: #808080;
+    width: 24px;
+    height: 24px;
+    padding: 16px;
+}
